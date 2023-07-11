@@ -1,0 +1,8 @@
+name: Factions
+version: '${project.version}'
+main: eu.sunsh4dow.factions.Factions
+api-version: '1.20'
+commands:
+  factions:
+    description: Join a faction!
+    usage: /joinfaction
